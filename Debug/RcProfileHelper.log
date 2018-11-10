@@ -1,0 +1,131 @@
+﻿  moc_dlgnewprofilecreate.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(419): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(445): note: see reference to function template instantiation 'void std::_Uninit_alloc_fill_n1<_FwdIt,std::_Diff,std::allocator<_Other>>(_FwdIt,std::_Diff,const unsigned int *,std::_Wrap_alloc<std::allocator<_Other>> &,std::false_type)' being compiled
+          with
+          [
+              _FwdIt=unsigned int *,
+              _Diff=unsigned int,
+              _Other=std::_Vbase
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1759): note: see reference to function template instantiation 'void std::_Uninitialized_fill_n<unsigned int*,unsigned int,std::allocator<_Other>>(_FwdIt,std::_Diff,const unsigned int *,std::_Wrap_alloc<std::allocator<_Other>> &)' being compiled
+          with
+          [
+              _Other=std::_Vbase,
+              _FwdIt=unsigned int *,
+              _Diff=unsigned int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1758): note: while compiling class template member function 'unsigned int *std::vector<std::_Vbase,_Alloc>::_Ufill(unsigned int *,unsigned int,const unsigned int *)'
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(831): note: see reference to function template instantiation 'unsigned int *std::vector<std::_Vbase,_Alloc>::_Ufill(unsigned int *,unsigned int,const unsigned int *)' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2329): note: see reference to class template instantiation 'std::vector<std::_Vbase,_Alloc>' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2425): note: see reference to class template instantiation 'std::_Vb_val<_Alloc>' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  d:\qt.5.11\5.11.2\msvc2015\include\qtcore\qmetatype.h(876): note: see reference to class template instantiation 'std::vector<bool,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=bool
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\iosfwd(343): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(419): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(445): note: see reference to function template instantiation 'void std::_Uninit_alloc_fill_n1<_FwdIt,std::_Diff,std::allocator<_Other>>(_FwdIt,std::_Diff,const unsigned int *,std::_Wrap_alloc<std::allocator<_Other>> &,std::false_type)' being compiled
+          with
+          [
+              _FwdIt=unsigned int *,
+              _Diff=unsigned int,
+              _Other=std::_Vbase
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1759): note: see reference to function template instantiation 'void std::_Uninitialized_fill_n<unsigned int*,unsigned int,std::allocator<_Other>>(_FwdIt,std::_Diff,const unsigned int *,std::_Wrap_alloc<std::allocator<_Other>> &)' being compiled
+          with
+          [
+              _Other=std::_Vbase,
+              _FwdIt=unsigned int *,
+              _Diff=unsigned int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1758): note: while compiling class template member function 'unsigned int *std::vector<std::_Vbase,_Alloc>::_Ufill(unsigned int *,unsigned int,const unsigned int *)'
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(831): note: see reference to function template instantiation 'unsigned int *std::vector<std::_Vbase,_Alloc>::_Ufill(unsigned int *,unsigned int,const unsigned int *)' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2329): note: see reference to class template instantiation 'std::vector<std::_Vbase,_Alloc>' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2425): note: see reference to class template instantiation 'std::_Vb_val<_Alloc>' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  d:\qt.5.11\5.11.2\msvc2015\include\qtcore\qmetatype.h(876): note: see reference to class template instantiation 'std::vector<bool,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=bool
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\iosfwd(343): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  dlgnewprofilecreate.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(419): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(445): note: see reference to function template instantiation 'void std::_Uninit_alloc_fill_n1<_FwdIt,std::_Diff,std::allocator<_Other>>(_FwdIt,std::_Diff,const unsigned int *,std::_Wrap_alloc<std::allocator<_Other>> &,std::false_type)' being compiled
+          with
+          [
+              _FwdIt=unsigned int *,
+              _Diff=unsigned int,
+              _Other=std::_Vbase
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1759): note: see reference to function template instantiation 'void std::_Uninitialized_fill_n<unsigned int*,unsigned int,std::allocator<_Other>>(_FwdIt,std::_Diff,const unsigned int *,std::_Wrap_alloc<std::allocator<_Other>> &)' being compiled
+          with
+          [
+              _Other=std::_Vbase,
+              _FwdIt=unsigned int *,
+              _Diff=unsigned int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1758): note: while compiling class template member function 'unsigned int *std::vector<std::_Vbase,_Alloc>::_Ufill(unsigned int *,unsigned int,const unsigned int *)'
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(831): note: see reference to function template instantiation 'unsigned int *std::vector<std::_Vbase,_Alloc>::_Ufill(unsigned int *,unsigned int,const unsigned int *)' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2329): note: see reference to class template instantiation 'std::vector<std::_Vbase,_Alloc>' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2425): note: see reference to class template instantiation 'std::_Vb_val<_Alloc>' being compiled
+          with
+          [
+              _Alloc=std::allocator<bool>
+          ]
+  d:\qt.5.11\5.11.2\msvc2015\include\qtcore\qmetatype.h(876): note: see reference to class template instantiation 'std::vector<bool,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=bool
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\iosfwd(343): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  Generating Code...
+  RcProfileHelper.vcxproj -> D:\ActiveProject\QtGuiMRC2018\Win32\Debug\RcProfileHelper.exe
+  RcProfileHelper.vcxproj -> D:\ActiveProject\QtGuiMRC2018\Win32\Debug\RcProfileHelper.pdb (Full PDB)
