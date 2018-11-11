@@ -1,6 +1,4 @@
-# RcProfileHelperGui
-
-Summary		: Replicator Console Profile Helper Application.
+Summary		: Replicator Console Profile Generator Application.
 Author		: Timothy Peer, eNVy Systems, Inc.
 Create Date : Jan 2015
 Git Uploaded: Nov 11, 2018
@@ -15,13 +13,13 @@ be modified to easily replicate a single source database to many target database
 
 DOCUMENTATION:
 
-You may wish to refer to the Git documentation (to do) to obtain clarification on details of the tool.  The 
+You may wish to refer to the Git documentation https://github.com/timothyPeer/RcProfileHelperGui.wiki.git for usage details of the tool.  The 
 example Oracle Rdb Extract ASCII text files were extracted from eNVy SQL databases generated using 
 eNVy Warehouse Suite for Oracle Codasyl DBMS.  The SQL Database is an auto-generated SQL data model derived 
-from an OpenVMS Oracle Codasyl DBMS schema (dbo/dump/schema/option=debug). 
+from an OpenVMS Oracle Codasyl DBMS database's schema (dbo/dump/schema/option=debug). 
 
-Though the application was developed for eNVy OpenVMS clients, the tool would seem a good fit to perform ODBC-
-ODBC replication to/from for most ODBC v3 compliant databases. 
+Though the application was developed for eNVy OpenVMS clients, the tool would seem a good fit for performing ODBC-
+ODBC replication tasks to/from for most ODBC v3 compliant (other than Rdb and SQL Server) databases. 
 
 DEPENDENCIES: 
 
