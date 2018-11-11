@@ -2,7 +2,7 @@
 * FILENAME :        CaseList_PRCDB100.h             DESIGN REF: 
 *
 * DESCRIPTION :
-*       This file contains a branches for each record that can be processed in the PRCDB Manman V11
+*       This file contains a case branch for each record that can be processed in the PRCDB Manman V11
 *        Rdb schema.
 *
 *    THIS FILE IS AN AUTO-GENERATED INCLUDE FILE
